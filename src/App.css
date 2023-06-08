@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.sem {
+  padding:15px;
+}
+
+.spcs {
+  width: 18%;
+  color: black;
+}
+
+.sombra {
+  box-shadow: 2px 0px 108px 45px rgba(190,209,52,0.76);
+-webkit-box-shadow: 2px 0px 108px 45px rgba(190,209,52,0.76);
+-moz-box-shadow: 2px 0px 108px 45px rgba(190,209,52,0.76);
+}
